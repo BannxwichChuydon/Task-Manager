@@ -1,2 +1,9 @@
-# Post-it-Task-Manager
-My First Frontend Project - Post-it Task Manager  A simple task management web application built with HTML, CSS, and JavaScript. Users can add, edit, and delete tasks, with data saved in localStorage for persistence. Created as my first project to practice DOM manipulation and basic web development skills.
+
+# 📌 Post-it Task Manager
+เว็บจัดการงานประจำวันสไตล์มินิมอล ม่วง-ครีม พาสเทล
+
+## ✨ Features
+- **Task Board:** สร้างแผ่นงานโพสอิทแยกตามชื่อลูกค้า โปรเจกต์ และงบประมาณ
+- **Status Filter:** แยกความสำคัญและสีของแผ่นงานตามสถานะ (To do, Doing, Done)
+- **Dark Mode:** สลับโหมดมืด-สว่าง ถนอมสายตา และบันทึกค่าอัตโนมัติ
+- **Local Storage:** ระบบบันทึกข้อมูลบนเครื่อง รีเฟรชหน้าจอข้อมูลไม่หาย
